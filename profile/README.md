@@ -1,6 +1,6 @@
 ## Bayes Softworks
 
-[bayessoftworks.com]bayessoftworks.com)
+[bayessoftworks.com](bayessoftworks.com)
 
 <!--
 
