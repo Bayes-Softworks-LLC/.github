@@ -1,6 +1,6 @@
 ## Bayes Softworks
 
-producing simple, quality software for the AI/ML applications. 
+producing simple, quality software for systems and AI/ML applications. 
 
 [bayessoftworks.com](bayessoftworks.com)
 
