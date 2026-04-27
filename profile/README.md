@@ -1,5 +1,7 @@
 ## Bayes Softworks
 
+producing simple, quality software for the AI/ML applications. 
+
 [bayessoftworks.com](bayessoftworks.com)
 
 <!--
