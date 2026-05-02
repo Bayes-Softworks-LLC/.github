@@ -2,7 +2,7 @@
 
 producing simple, quality software for systems and AI/ML applications. 
 
-[bayessoftworks.com](bayessoftworks.com)
+bayessoftworks.com
 
 <!--
 
