@@ -2,8 +2,12 @@
 
 producing simple, quality software for systems and AI/ML applications. 
 
-bayessoftworks.com
+[bayessoftworks.com
+](https://bayes-softworks.netlify.app/)
 
+
+[autovod.ai
+](https://autovod.ai/)
 <!--
 
 **Here are some ideas to get you started:**
